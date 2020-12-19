@@ -1,3 +1,5 @@
+Deployment Link:https://fodify-1ee9e.web.app/restaurent
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
